@@ -4,3 +4,5 @@ It doesn't have an interface. You have the edit it to get different results. It 
 
 Read the original paper to understand what it does: https://zynaddsubfx.sourceforge.io/doc/PADsynth/PADsynth.htm
 Good luck.
+
+Also, check out my PAD Fabrics repository for some example patches for Shortcircuit XT.
